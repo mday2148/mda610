@@ -1,0 +1,72 @@
+/* CSS styles */
+  body {
+        font-family: Verdana, Arial, Helvetica, sans-serif;
+        width: 90%;
+        margin: 2em;
+      }
+
+a {
+      	font-weight: bold;
+      }
+
+a:link, .accessed{
+  color: lime;
+}
+
+a:visited {
+  color: gray;
+  
+}
+    
+  ul {	color: olive;
+  }  
+
+  *>p, ol {
+  	font-size: 80%;
+  }
+em {
+	font-weight: bold;
+}
+
+header img {
+	float: left;
+}
+
+header h2 {
+	font-size: 90%;
+	color: green;
+	text-align: center;
+}    
+main {
+	clear: left;
+}
+
+main h1 {
+	font-size: 190%;
+}
+
+main h2 {
+	font-size: 190%;
+}
+
+main p.indent {
+	text-indent: 2em;
+}
+
+#content {
+	float: left;
+	width: 45%;
+	margin: 1%;
+}
+
+#proglangs {
+	float: right;
+	width: 45%;
+	margin: 1%;
+}
+
+footer p {
+	font-size: 60%;
+	text-align: center;
+	color: blue;
+}
