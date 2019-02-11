@@ -17,7 +17,9 @@ a:visited {
   color: gray;
   
 }
-    
+ a:hover {
+	color: deeppink;
+}   
   ul {	color: olive;
   }  
 
