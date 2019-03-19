@@ -1,4 +1,4 @@
-# <p align="center">Matthew Day MDA 610 Sample Work</p>
+# Matthew Day MDA 610 Sample Work
 
 ## HTML & CSS
 + [HTML Sample](https://mday2148.github.io/mda610/week2_solution/index.html)
