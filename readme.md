@@ -1,19 +1,17 @@
+# <p align="center">Matthew Day MDA 610 Sample Work</p>
 
-
-# ->Matthew Day MDA 610 Sample Work<-
-	
 ## HTML & CSS
-	+ [HTML Sample](https://mday2148.github.io/mda610/week2_solution/index.html)
-	+ [CSS Styles](https://mday2148.github.io/mda610/week3_solution/courseinfo.html)
++ [HTML Sample](https://mday2148.github.io/mda610/week2_solution/index.html)
++ [CSS Styles](https://mday2148.github.io/mda610/week3_solution/courseinfo.html)
 
 
 ## Entity Relationship Modeling
-	+ [ER Diagram][3]
-	+ [ER Schema][4]
++ [ER Diagram][3]
++ [ER Schema][4]
 
-## SQL Queries	
-	+ [SQL Queries Homework][5]
-		
+## SQL Queries
++ [SQL Queries Homework][5]
+
 
 
 
