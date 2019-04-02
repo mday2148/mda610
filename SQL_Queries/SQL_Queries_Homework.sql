@@ -58,7 +58,22 @@ FROM
     actor;
 
 /* Answer iii
-121
+121 - this is the number of distinct names. They want the number of people who have a unique name.
+
+/* Problem iii */
+SELECT COUNT(last_name) AS num_names
+FROM (SELECT last_name
+      FROM actor
+      GROUP BY last_name
+      HAVING COUNT(last_name) = 1) not_repeated_names; 
+
++-----------+
+| num_names |
++-----------+
+|        66 |
++-----------+
+
+
 */
 
 SELECT 
@@ -92,6 +107,17 @@ WHERE
             f.description LIKE '%Crocodile%'
                 AND f.description LIKE '%Shark%')
 ORDER BY last_name;
+
+more simple answer because you're creating a table that has all the information, you don't need to do a subquery first:
+SELECT CONCAT(first_name, ' ', last_name) AS name, release_year 
+FROM actor JOIN film_actor f_a
+ON actor.actor_id = f_a.actor_id
+JOIN film 
+ON f_a.film_id = film.film_id
+WHERE description LIKE '%Crocodile%'
+AND description LIKE '%Shark%'
+ORDER BY last_name;
+
 
 /* Answer v
 # fullname, release_year

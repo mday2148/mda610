@@ -12,9 +12,13 @@
 ## SQL Queries
 + [SQL Queries Homework][5]
 
+## Python
++ [Python Homework] [6]
+
 
 
 
 [3]: https://mday2148.github.io/mda610/ER_Solution/MutualFund_ERD.png
 [4]: https://mday2148.github.io/mda610/ER_Solution/MutualFund_Schema.png
 [5]: https://mday2148.github.io/mda610/SQL_Queries/SQL_Queries_Homework.sql
+[6]: https://mday2148.github.io/mda610/Python%20Homework/Python%20Homework.ipynb
