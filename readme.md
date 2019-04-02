@@ -13,7 +13,7 @@
 + [SQL Queries Homework][5]
 
 ## Python
-+ [Python Homework] [6]
++ [Python Homework][6]
 
 
 
