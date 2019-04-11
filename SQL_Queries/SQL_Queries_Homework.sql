@@ -109,6 +109,7 @@ WHERE
 ORDER BY last_name;
 
 more simple answer because you're creating a table that has all the information, you don't need to do a subquery first:
+
 SELECT CONCAT(first_name, ' ', last_name) AS name, release_year 
 FROM actor JOIN film_actor f_a
 ON actor.actor_id = f_a.actor_id
