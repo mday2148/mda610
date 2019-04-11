@@ -13,7 +13,8 @@
 + [SQL Queries Homework][5]
 
 ## Python
-+ [Python Homework][6]
++ [Python Homework - if, for loops, functions, and other problems][6]
++ [Python Homework - classes][7]
 
 
 
@@ -22,3 +23,4 @@
 [4]: https://mday2148.github.io/mda610/ER_Solution/MutualFund_Schema.png
 [5]: https://mday2148.github.io/mda610/SQL_Queries/SQL_Queries_Homework.sql
 [6]: https://mday2148.github.io/mda610/Python%20Homework/Python%20Homework.ipynb
+[7]: https://mday2148.github.io/mda610/Python%20Homework/FracNewEdits.ipynb
