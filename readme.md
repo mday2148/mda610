@@ -13,8 +13,9 @@
 + [SQL Queries Homework][5]
 
 ## Python
-+ [Python Homework - if, for loops, functions, and other problems][6]
-+ [Python Homework - classes][7]
++ [if, for loops, functions, and other problems][6]
++ [classes][7]
++ [Sample Statistics Function][8]
 
 
 
@@ -24,3 +25,4 @@
 [5]: https://mday2148.github.io/mda610/SQL_Queries/SQL_Queries_Homework.sql
 [6]: https://mday2148.github.io/mda610/Python%20Homework/Python%20Homework.ipynb
 [7]: https://mday2148.github.io/mda610/Python%20Homework/FracNewEdits.ipynb
+[8]: https://mday2148.github.io/mda610/Python%20Homework/assignment9.ipynb
